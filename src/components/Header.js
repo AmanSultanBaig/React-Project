@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Heading extends Component {
+class Header extends Component {
     render() {
         return (
             <ul>
@@ -14,4 +14,4 @@ class Heading extends Component {
     }
 }
 
-export default Heading;
+export default Header;
