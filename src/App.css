@@ -17,15 +17,17 @@ h1 {
   margin-top: 5%; 
   grid-template-columns: auto auto auto;
   background-color: #2196F3;
-  padding: 10px;
   margin-bottom: 5%
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 100px;
-  font-size: 30px;
-  text-align: center;
+}
+
+img {
+  width: 80%;
+  margin: 10%;
+  height: 250px;
 }
 
 /* Style the footer */
